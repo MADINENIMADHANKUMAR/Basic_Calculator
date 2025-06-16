@@ -49,3 +49,6 @@ This project helps strengthen front-end development skills and improve understan
 ## ⚠️ Error Handling
 - Invalid expressions (e.g., `5/0`) are safely handled by `math.js`.
 
+## 🔗 Live Demo  
+[Click here to use the Calculator Online](https://madinenimadhankumar.github.io/Basic_Calculator/)  
+  
